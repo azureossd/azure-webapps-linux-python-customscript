@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo Python deployment.
 
 # 1. KuduSync
