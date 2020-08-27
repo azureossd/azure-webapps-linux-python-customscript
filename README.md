@@ -1,4 +1,4 @@
-# python-training-flask-dash
+# Dash sample with custom deployment script
 
 The following code was taken from **Dash examples** here: https://dash.plotly.com/layout
 
@@ -11,7 +11,7 @@ References to this framework:
 * https://dash.plotly.com/
 * https://github.com/plotly/dash
 
-# Update Python version:
+# Update Python version
 
 - Review and change the Python version 
 - Check in Kudu Python version list in **/opt/python/** and selec the same version of your web app.
