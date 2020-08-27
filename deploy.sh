@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Review and change the Python version 
+# Check in Kudu Python version list in /opt/python/
+# export PYTHON3="/opt/python/3.6.10/bin/python3.6"
+
 # ----------------------
 # KUDU Deployment Script
 # Version: {Version}
