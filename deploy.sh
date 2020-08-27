@@ -72,11 +72,11 @@ fi
 #2. Install any dependencies
 
 export ANTENV="antenv"
-export PYTHON3="python3.7"
+export PYTHON3="/opt/python/3.6.10/bin/python3.6"
 
 if [ "$WEBSITE_PYTHON_VERSION" = "3.6" ]; then
     export ANTENV="antenv3.6"
-    export PYTHON3="python3.6"
+    export PYTHON3="/opt/python/3.6.10/bin/python3.6"
 fi
 
 echo "$DEPLOYMENT_SOURCE"
